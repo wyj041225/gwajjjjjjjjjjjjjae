@@ -1,4 +1,4 @@
-
+ï»¿
 
 #include <iostream>
 using namespace std;
@@ -12,7 +12,7 @@ int ara(int num[5]) {
 }
 
 int main() {
-    // 1. Á¤¼öÇü ¹è¿­ ¼±¾ð ¹× ¿¬»ê
+    // 1. ì •ìˆ˜í˜• ë°°ì—´ ì„ ì–¸ ë° ì—°ì‚°
     int numbers[5];
 
     cin >> numbers[0];
